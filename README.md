@@ -3,7 +3,7 @@ The MultiFormat Interpreter project involves developing a Python script to autom
 
 ## GPT-4ALL
 The GPT-4All model is a variant of the GPT (Generative Pre-trained Transformer) architecture designed to handle a wide range of natural language processing tasks. Developed by Anthropic, GPT-4All aims to be a versatile tool for generating text across various domains, including code generation, text completion, translation, and more. It builds upon advancements in transformer-based models and is tailored to support applications requiring nuanced understanding and generation of human-like text.
-
+![](https://storage.googleapis.com/gweb-research2023-media/original_images/22bf59cc5a1f2256b0c458250f076d58-USP.gif)
 Key features of the GPT-4All model are:
 1. **Local Operation:** GPT-4All operates locally without needing API calls or GPUs, enhancing accessibility and reducing reliance on cloud services.
 2. **Offline Capability:** Once downloaded, GPT-4All works offline, ensuring users can access AI-powered text generation tools even without internet connectivity.
